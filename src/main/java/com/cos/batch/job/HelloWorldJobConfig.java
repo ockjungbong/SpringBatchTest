@@ -17,6 +17,10 @@ import org.springframework.context.annotation.Configuration;
 
 import lombok.RequiredArgsConstructor;
 
+/*
+ * desc : Hello World 출력
+ * run : --spring.batch.job.name=helloWorldJob
+ */
 @Configuration
 @RequiredArgsConstructor
 public class HelloWorldJobConfig {
