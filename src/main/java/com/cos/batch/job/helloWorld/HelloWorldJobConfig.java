@@ -1,4 +1,4 @@
-package com.cos.batch.job;
+package com.cos.batch.job.helloWorld;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
